@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/PWA-Test/build/static/css/main.cac89ee2.css",
+    "main.js": "/PWA-Test/build/static/js/main.e48d5656.js",
+    "static/js/787.41979a90.chunk.js": "/PWA-Test/build/static/js/787.41979a90.chunk.js",
+    "static/media/slide_01_bg.png": "/PWA-Test/build/static/media/slide_01_bg.9b80efe00f64c587b729.png",
+    "static/media/slide-03-bg.jpg": "/PWA-Test/build/static/media/slide-03-bg.e9560075400a999d7b67.jpg",
+    "static/media/slide-10-1-bg.jpg": "/PWA-Test/build/static/media/slide-10-1-bg.780edce9839f5e91f4dc.jpg",
+    "static/media/slide-04-bg.jpg": "/PWA-Test/build/static/media/slide-04-bg.d6c0db16c9a1cc7ee2a5.jpg",
+    "static/media/slide-05-bg.jpg": "/PWA-Test/build/static/media/slide-05-bg.a9c3821e534433fb89d3.jpg",
+    "static/media/slide-09-bg.jpg": "/PWA-Test/build/static/media/slide-09-bg.07c2d9f7fa7c4c8f08a9.jpg",
+    "static/media/slide-08-bg.jpg": "/PWA-Test/build/static/media/slide-08-bg.a1b47821368d08c6e53b.jpg",
+    "service-worker.js": "/PWA-Test/build/service-worker.js",
+    "static/media/slide-06-bg.jpg": "/PWA-Test/build/static/media/slide-06-bg.10fabed3860eb6bcc316.jpg",
+    "static/media/slide-07-bg.jpg": "/PWA-Test/build/static/media/slide-07-bg.209b2d1bf5a0acb5335d.jpg",
+    "static/media/slide-02-bg.jpg": "/PWA-Test/build/static/media/slide-02-bg.f20d52779dae2b30aa25.jpg",
+    "static/media/slide-10-2-bg.jpg": "/PWA-Test/build/static/media/slide-10-2-bg.7c3a7df035eef83e0eac.jpg",
+    "index.html": "/PWA-Test/build/index.html",
+    "main.cac89ee2.css.map": "/PWA-Test/build/static/css/main.cac89ee2.css.map",
+    "main.e48d5656.js.map": "/PWA-Test/build/static/js/main.e48d5656.js.map",
+    "787.41979a90.chunk.js.map": "/PWA-Test/build/static/js/787.41979a90.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cac89ee2.css",
+    "static/js/main.e48d5656.js"
+  ]
+}
