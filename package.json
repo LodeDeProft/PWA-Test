@@ -1,4 +1,5 @@
 {
+  "homepage": "http://LodeDeProft.github.io/PWA-Test/",
   "name": "pwa-test-app",
   "version": "0.1.0",
   "private": true,
@@ -56,6 +57,5 @@
   },
   "devDependencies": {
     "gh-pages": "^5.0.0"
-  },
-  "homepage": "http://LodeDeProft.github.io/PWA-Test/pwa-test-app"
+  }
 }
