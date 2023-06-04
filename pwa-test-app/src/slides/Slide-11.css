@@ -1,0 +1,28 @@
+.title-11{
+    display: flex;
+    flex-wrap: wrap;
+    width: 75%;
+    height: 25%;
+}
+
+.title-11 h1{
+    text-align: left;
+    color: white;
+    padding-left: 7%;
+}
+.title-11 h2{
+    text-align: left;
+    color: white;
+    padding-left: 7%;
+}
+
+.bg-11-1{
+    width:75%;
+    height: 75%;
+}
+
+.bg-11-2{
+    width:25%;
+    height: 25%;
+}
+

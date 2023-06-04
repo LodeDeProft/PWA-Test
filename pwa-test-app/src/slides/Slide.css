@@ -1,0 +1,27 @@
+.container{
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    flex-wrap: wrap;
+}
+
+h1{
+    font-size: 4.5em;
+}
+
+h2{
+    font-size:3em;
+}
+
+.bg-primary{
+    background-color: rgb(56, 93, 202);
+}
+
+.hide{
+    opacity: 0;
+}
+
+.show{
+    opacity: 1;
+    transition: ease-in 0.2s;
+}
