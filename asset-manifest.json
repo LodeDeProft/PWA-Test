@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/PWA-Test/static/css/main.cac89ee2.css",
+    "main.css": "/PWA-Test/static/css/main.6ed1d43b.css",
     "main.js": "/PWA-Test/static/js/main.98fec7ab.js",
     "static/js/787.41979a90.chunk.js": "/PWA-Test/static/js/787.41979a90.chunk.js",
     "static/media/slide_01_bg.png": "/PWA-Test/static/media/slide_01_bg.9b80efe00f64c587b729.png",
@@ -16,12 +16,12 @@
     "static/media/slide-02-bg.jpg": "/PWA-Test/static/media/slide-02-bg.f20d52779dae2b30aa25.jpg",
     "static/media/slide-10-2-bg.jpg": "/PWA-Test/static/media/slide-10-2-bg.7c3a7df035eef83e0eac.jpg",
     "index.html": "/PWA-Test/index.html",
-    "main.cac89ee2.css.map": "/PWA-Test/static/css/main.cac89ee2.css.map",
+    "main.6ed1d43b.css.map": "/PWA-Test/static/css/main.6ed1d43b.css.map",
     "main.98fec7ab.js.map": "/PWA-Test/static/js/main.98fec7ab.js.map",
     "787.41979a90.chunk.js.map": "/PWA-Test/static/js/787.41979a90.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cac89ee2.css",
+    "static/css/main.6ed1d43b.css",
     "static/js/main.98fec7ab.js"
   ]
 }
