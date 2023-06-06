@@ -6,11 +6,17 @@
 }
 
 h1{
-    font-size: 4.5em;
+    font-size: calc(12vh);
 }
 
 h2{
-    font-size:3em;
+    font-size:calc(6vh);
+}
+
+li{
+    color: black !important;
+    font-size: 5vh !important;
+    margin-top: 1.2vh !important;
 }
 
 .bg-primary{
