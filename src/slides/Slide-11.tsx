@@ -3,6 +3,8 @@ import "./Slide.css";
 import bg11_1 from '../assets/slide-10-1-bg.jpg';
 import bg11_2 from '../assets/slide-10-2-bg.jpg';
 import { Slide } from "../Contexts/Slideshow";
+import { Vector2, Color } from "../particle-system/math";
+import ParticleSystem from "../particle-system/particle-system";
 
 export default class Slide_11 extends Slide{
     public render(){

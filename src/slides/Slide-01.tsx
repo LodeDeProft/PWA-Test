@@ -2,6 +2,8 @@ import "./Slide-01.css";
 import "./Slide.css";
 import bg1 from '../assets/slide_01_bg.png';
 import { Slide } from "../Contexts/Slideshow";
+import ParticleSystem from "../particle-system/particle-system";
+import { Color, Vector2 } from "../particle-system/math";
 
 export default class Slide_01 extends Slide{
     public render(){
