@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/PWA-Test/static/css/main.6ed1d43b.css",
-    "main.js": "/PWA-Test/static/js/main.98fec7ab.js",
+    "main.js": "/PWA-Test/static/js/main.4efe0ad1.js",
     "static/js/787.41979a90.chunk.js": "/PWA-Test/static/js/787.41979a90.chunk.js",
     "static/media/slide_01_bg.png": "/PWA-Test/static/media/slide_01_bg.9b80efe00f64c587b729.png",
     "static/media/slide-03-bg.jpg": "/PWA-Test/static/media/slide-03-bg.e9560075400a999d7b67.jpg",
@@ -17,11 +17,11 @@
     "static/media/slide-10-2-bg.jpg": "/PWA-Test/static/media/slide-10-2-bg.7c3a7df035eef83e0eac.jpg",
     "index.html": "/PWA-Test/index.html",
     "main.6ed1d43b.css.map": "/PWA-Test/static/css/main.6ed1d43b.css.map",
-    "main.98fec7ab.js.map": "/PWA-Test/static/js/main.98fec7ab.js.map",
+    "main.4efe0ad1.js.map": "/PWA-Test/static/js/main.4efe0ad1.js.map",
     "787.41979a90.chunk.js.map": "/PWA-Test/static/js/787.41979a90.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6ed1d43b.css",
-    "static/js/main.98fec7ab.js"
+    "static/js/main.4efe0ad1.js"
   ]
 }
